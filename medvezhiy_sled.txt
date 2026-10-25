@@ -1,1 +1,1 @@
-aus-connectors-average-url.trycloudflare.com
+load-news-theory-roommate.trycloudflare.com
